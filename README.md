@@ -52,3 +52,5 @@ Make sure to always verify the official Nexus URL, use secure practices, and sta
 
 *Disclaimer: This content is for informational purposes only. Accessing or using darknet markets may violate local laws. The author does not condone illegal activity.*
 ```
+
+Update:  04.08.2025 url is now functioning and accessible
