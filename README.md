@@ -55,4 +55,6 @@ Make sure to always verify the official Nexus URL, use secure practices, and sta
 
 
 
-Update:  13.08.2025 The link is now clickable and working fine.
+
+
+Update:  Tuesday 19 August 2025 URLs repaired
