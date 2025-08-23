@@ -57,4 +57,6 @@ Make sure to always verify the official Nexus URL, use secure practices, and sta
 
 
 
-Update:  Tuesday 19 August 2025 URLs repaired
+
+
+Update:  Saturday 23 August 2025 Link is live again
